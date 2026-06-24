@@ -1,0 +1,33 @@
+/* body css */
+body {
+  background-color: red;
+  font-family: Arial;
+}
+
+/* Div1 css */
+.div1 {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border-style: dotted;
+  text-align: center;
+  border-radius: 10px;
+  border-width: 20px 15px;
+}
+
+/* Heading css */
+.main {
+  font-size: 40px;
+  font-style: italic;
+  font-weight: stronger;
+  font-family: Bradley Hand ITC;
+  word-spacing: 15px;
+  letter-spacing: 12px;
+}
+
+/* para css */
+.para {
+  font: 40px obliq bold Blackadder ITC, magenta;
+  text-align: center;
+  text-transform: uppercase;
+}
